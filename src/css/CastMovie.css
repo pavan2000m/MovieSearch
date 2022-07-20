@@ -1,0 +1,23 @@
+.item_data{
+    color: white;
+    display: block;
+}
+.item_image{
+    margin-left: 37%;
+    
+}
+.item_name{
+    margin-left: 40%;
+}
+.item_achi{
+    
+    margin-left: 35%;
+}
+.card-mov{
+    display: grid;
+    /* grid-template-columns: repeat(3, 200px); */
+    gap: 10rem;
+    /* padding: 5rem 5rem 5rem 5rem; */
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
